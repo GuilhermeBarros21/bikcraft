@@ -13,7 +13,7 @@
 
 /* Utilidades*/
 @import "./utilidades/componentes.css";
-@import "./utilidades/formulario.css";
+@import "./utilidades/formularios.css";
 
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";

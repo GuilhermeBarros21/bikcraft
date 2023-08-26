@@ -64,3 +64,9 @@ const paramentos = new URLSearchParams(location.search)
  }
 
  galeria.forEach(eventosGaleria);
+
+ //Animação
+
+ if (window.SimpleAnime){
+ new SimpleAnime();
+}

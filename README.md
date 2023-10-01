@@ -1,5 +1,5 @@
 # bikcraft 
-[Logo](https://i.imgur.com/CLmgOxG.png)]O projeto **Bikcraft** foi desenvolvido durante os cursos de **HTML e CSS para Iniciantes** e **UI Design** da **[Origamid](https://www.origamid.com/)**. Durante o curso, aprendemos todos os princípios básicos de **UI/UX Design** e **codificação**, colocando todos os conceitos em prática.
+[![Logo](https://i.imgur.com/CLmgOxG.png)]O projeto **Bikcraft** foi desenvolvido durante os cursos de **HTML e CSS para Iniciantes** e **UI Design** da **[Origamid](https://www.origamid.com/)**. Durante o curso, aprendemos todos os princípios básicos de **UI/UX Design** e **codificação**, colocando todos os conceitos em prática.
 
 ---
 
@@ -11,7 +11,7 @@
 ---
 
 ## Preview
-[![Bikcraft](https://i.imgur.com/iCqHCkh.jpg)](https://bikcraftr.vercel.app/)]
+[![Bikcraft](https://i.imgur.com/iCqHCkh.jpg)](https://bikcraftr.vercel.app/)
 [Link de acesso](https://bikcraftr.vercel.app/).
 
 ---
